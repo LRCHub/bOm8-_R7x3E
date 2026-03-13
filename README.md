@@ -1,0 +1,43 @@
+# John Michael Howell – Mr. Feel
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.12] I must be Mr. Feel, baby, what's the deal?
+[00:05.17] I lose half my head when the love gets real
+[00:08.32] Fall twice as far when they break my heart
+[00:11.53] And I just can't make it stop
+[00:14.23] And you're all Mrs. Cool, nothing bothers you
+[00:18.08] Guess some hearts don't bruise, wish I was like that too
+[00:21.05] But you're right as rain while I'm sad and blue
+[00:24.49] And I don't know what to do, ooh, ooh, ooh
+[00:45.49] 
+[00:34.44] Roses are red and the violets are blue
+[00:37.70] And I'm a bit of both, I guess I owe that to you
+[00:40.97] I'll change my card, look with the swing of a mood
+[00:44.08] But you're so black and white, I never know what to do
+[01:11.08] 
+[00:47.38] If opposites attract, it's a wonder we're divided
+[00:50.40] But I'm happy we collided at all (at all)
+[00:53.33] But I guess if we were the same, we'd be sharing us a name
+[00:57.17] And I'm the one to blame, it's my fault
+[01:16.67] 
+[00:59.36] I must be Mr. Feel, baby, what's the deal?
+[01:03.46] I lose half my head when the love gets real
+[01:06.71] Fall twice as far when they break my heart
+[01:10.04] And I just can't make it stop
+[01:12.52] Well, you're all Mrs. Cool, nothin' bothers you
+[01:16.37] Guess some hearts don't bruise, wish I was like that too
+[01:19.61] But you're right as rain while I'm sad and blue
+[01:22.95] And I don't know what to do, ooh, ooh, ooh
+[01:43.95] 
+[01:26.58] La, la, la, la-la-la-la, la
+[01:29.33] La-la, la, la, la, la-la-la-la, la
+[01:32.59] La-la, la, la, la, la-la-la-la, la
+[01:35.75] La-la, la, la, la, la-la-la-la, la
+[01:52.75] 
+[01:39.46] La, la, la, la-la-la-la, la
+[01:42.11] La-la, la, la, la, la-la-la-la, la
+[01:44.68] You must be Mr. Feel
+[01:48.27] Must be Mr. Feel
+```
