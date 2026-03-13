@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Mr. Feel",
+  "base_artist": "John Michael Howell",
+  "createdAt": "2026-03-13T15:34:06.441628Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Feel Good",
+      "artist": "Dem Franchize Boyz",
+      "has_synced": false,
+      "path": "select/01_Mr._Feel_Good_Dem_Franchize_Boyz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr. Feel Good",
+      "artist": "Dem Franchize Boyz feat. Mannie Fresh",
+      "has_synced": false,
+      "path": "select/02_Mr._Feel_Good_Dem_Franchize_Boyz_feat._Mannie_Fresh.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr. Feel Good (feat. Mannie Fresh)",
+      "artist": "Dem Franchize Boyz",
+      "has_synced": false,
+      "path": "select/03_Mr._Feel_Good_(feat._Mannie_Fresh)_Dem_Franchize_Boyz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr. Feel",
+      "artist": "John Michael Howell",
+      "has_synced": true,
+      "path": "select/04_Mr._Feel_John_Michael_Howell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Feel",
+      "artist": "JohnMichaelHowell",
+      "has_synced": true,
+      "path": "select/05_Mr._Feel_JohnMichaelHowell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Feel",
+      "artist": "Video • John Michael Howell",
+      "has_synced": true,
+      "path": "select/06_Mr._Feel_Video_•_John_Michael_Howell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Feel",
+      "artist": "John Michael Howell",
+      "has_synced": true,
+      "path": "select/07_Mr._Feel_John_Michael_Howell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr. Feel (Paused)",
+      "artist": "John Michael Howell",
+      "has_synced": true,
+      "path": "select/08_Mr._Feel_(Paused)_John_Michael_Howell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr. Feel",
+      "artist": "John Michael Howell",
+      "has_synced": false,
+      "path": "select/pl_01_Mr._Feel_John_Michael_Howell.txt"
+    }
+  ]
+}
